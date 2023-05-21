@@ -1,4 +1,4 @@
-![logo](https://Welcome, all !.gif)
+![logo](https:Hi.jpg)
 <h1 align="center">Hi 👋, I'm Rajaa Chandramohan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
