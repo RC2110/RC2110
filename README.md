@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajaa Chandramohan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
-
-<p>-📫 How to reach me? </p>
-<p> &emsp;&emsp;&emsp;&emsp; Here you go ! </p>
-<p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **rajaachandramohan@gmail.com** </p> 
+<ul>
+  <li><p> 📫 How to reach me? </p></li>
+  <li><p> &emsp;&emsp;&emsp;&emsp; Here you go ! </p></li>
+  <li><p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **rajaachandramohan@gmail.com** </p> </li>
+</ul> 
 <img src=“https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-7.gif” align=“right”>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
