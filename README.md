@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajaa Chandramohan</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
--📫 How to reach me? 
-      Here you go ! 
+-📫 How to reach me? <br>
+      Here you go ! <br>
              email: **rajaachandramohan@gmail.com**
 
 <img src=“https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-7.gif” align=“right”>
