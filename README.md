@@ -4,9 +4,7 @@
 <p>-📫 How to reach me? </p>
 <p> &emsp;&emsp;&emsp;&emsp; Here you go ! </p>
 <p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **rajaachandramohan@gmail.com** </p> 
-
 <img src=“https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-7.gif” align=“right”>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajaa2110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajaac2110" height="30" width="40" /></a>
