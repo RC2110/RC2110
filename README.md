@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <ul>
   <li><p> 📫 How to reach me? </p></li>
-  <p> &emsp;&emsp;&emsp;&emsp;<li>Here you go ! </p></li>
+  <p> &emsp;&emsp;&emsp;&emsp;<li>Here you go !</li> </p>
   <p> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<li>**rajaachandramohan@gmail.com** </p> </li>
 </ul> 
 <img src=“https://usagif.com/wp-content/uploads/2021/4fh5wi/welcome-7.gif” align=“right”>
